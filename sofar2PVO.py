@@ -17,7 +17,7 @@
 # Version 3, 29 June 2007
 #
 #
-# @brief    A script to gathering data from a Sofar Solar Inverter (K-TLX)
+# @brief    A script to gather data from a Sofar Solar Inverter (K-TLX)
 #           via logger module LSW-3/LSE and upload it to www.pvoutput.org.
 #           Provide IP address, port and serial number of the inverter in the config file.
 
