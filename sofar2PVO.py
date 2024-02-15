@@ -3,15 +3,15 @@
 #
 # @file     sofar2PVO.py
 # @author   Matthias Klemm <Matthias_Klemm@gmx.net>
-# @version  1.0
+# @version  1.0.2
 # @Python   >= 3.2 required
-# @date     January, 2024
+# @date     February, 2024
 #
 # Based on a script by Michalux: https://github.com/MichaluxPL/Sofar_LSW3
 #
 # @section  LICENSE
 #
-# Copyright (C) 2023, Matthias Klemm. All rights reserved.
+# Copyright (C) 2024, Matthias Klemm. All rights reserved.
 #
 # GNU GENERAL PUBLIC LICENSE
 # Version 3, 29 June 2007
